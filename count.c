@@ -5,6 +5,6 @@ int main() {
     while (x < 50) {
         x += 1;
     }
-    printf("{}", x);
+    printf("%d", x);
     return 0;
 }
