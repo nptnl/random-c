@@ -3,5 +3,5 @@
 int main() {
     char eating[] = "eating some food i reckon\n";
     printf("%p", &eating);
-    return 1;
+    return 0;
 }
